@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b078528a59490164896ee0bb9cb08db8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stageCountText: {fileID: 672021145872509125, guid: 9b4b92a2fd09c34408cb4773dbd8b3da, type: 3}
+  - itemCountText: {fileID: 8913326472658277429, guid: 35dc6d7d67a4f45458742adc93509f0a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
